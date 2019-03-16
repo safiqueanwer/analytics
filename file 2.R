@@ -8,4 +8,4 @@ ncol(mtcars)
 class(mtcars)
 ?mtcars
 summary(mtcars)
-
+str(mtcars)
